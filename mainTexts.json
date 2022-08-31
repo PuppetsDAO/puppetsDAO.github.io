@@ -1,0 +1,71 @@
+{ 
+	"en": {
+		"navigationCopy":{
+			"introDescription":"click & drag down the circle to navigate through the experience",
+			"introTouchDescription": "tap & drag up to navigate through the experience",
+			"introAddititionalHeadline":"",
+			"mouseshakeInstruction":"move your mouse around to experience the soul",
+			"mouseshakeTouchInstruction":"touch the soul to explore",
+			"fbLink":"https://www.facebook.com/sharer/sharer.php?u=http://https://opensea.io/collection/puppetsoul/#en",
+			"twitterLink":"https://twitter.com/intent/tweet?text=https://opensea.io/collection/puppetsoul",
+			"fbLinkAbout":"https://www.facebook.com/#/",
+			"twitterLinkAbout":"https://twitter.com/",
+			"moreAbout":"more about",
+			"about":"About Puppet",
+			"aboutCopy":"PuppetSoul enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits with regenerative puppet for every 4 hrs / 24 hrs / 1 day / 90 months / 1 year. What's more, each Puppet-Soul unlocks private Founder’s access , private club membership and additional benefits the longer you hold them.",
+			"agency":"Agency:",
+
+			"bestWithHeadphones":"use headphones for the best experience",
+			"backToStart":"Replay experience",
+			"visitpuppet":"visit SoulDAO",
+			"watchVideo":"Watch video",
+			"handTutorial": "click and drag down the hand",
+			"tagline": "Grab the passes, PUPPET!",
+			"openScene": "open scene"
+
+		},
+		"sceneCopy": {
+			"0": {},
+			"1": {
+				"title": "PUPPET  on-chain \n dynamic ",
+				"text": "A token that represents governance over the Founder’s DAO, which was seeded with a mix of Puppet Vault assets, NFTs from other projects,  The Founder’s DAO tokens, each of which serve as one vote for DAO decisions. Tokens were created dynamically over chain ."
+			},
+			"2": {
+				"title": " Hours 4 :\n Truth in flames.",
+				"text": "Lost in the ashes. "
+			},
+			"3": {
+				"title": "Day 1 :\n Souls lost.",
+				"text": "O Narcissus! Lost in the desolate glow of your touchscreen, mirror to your vacant soul. The bottomless pit of wonders is the crystalline cage, in which you are showcased for the world to see. You touch, but cannot be touched."
+			},
+			"4": {
+				"title": " Days 7 :\n The matricide.",
+				"text": "All that remains is death."
+			},
+			"5": {
+				"title": " Days 30 :\n Puppets of power.",
+				"text": "PuppetSoul will be weapons, minds locked in lockstep. Where the powerful are stirring and the brutes are roaring, there can be no „different“. Relentlessly the juggernaut of uniformity keeps marching towards its sinister past, mesmerised by the siren call of a head filled with hatred."
+			},
+			"6": {
+				"title": " Days 30 :\n A voyeur.",
+				"text": "The aggressor’s blows meet blood and bones as well as the bystanders’ deafened ears. Fear of their own weakness is the poison anesthetising their forgotten conscience. Deprived of all empathy, the prying swarm turns away its thirsting grimace and robs Justice of her sight."
+			},
+			"7": {
+				"title": "Days 365 :\n Devour",
+				"text": "On the conveyor of obesity the machinery of the million mouths carries itself toward its own ruin. Living things are mutating to mass products of sickening gluttony and boundless consumption. Mother nature’s clinical rape knows no limit in pain. Only antibiotics."
+			},
+			"8": {
+				"title": "Master :\n I’m watching you.",
+				"text": "Naked in the cyclopean searchlight of iron giants. Your data, nothing but a currency in a cold war against your freedom. Break to smithereens, man of glass! Break upon the demons of public authority, drooling for a demonstration of their power. For the controlling body’s Argus eyes leave nothing in the dark."
+			},
+			"9": {
+				"title": "December 25",
+				"text": "Our free time,  In the blinding light of the picture tube, nights turn to days and the ticking of the clock to the whiplash of our mortality. Welcome to the puppetDAO."
+			},
+			"10": {
+				"title": "Grab your passes , Puppet!",
+				"text": "PuppetSoul enabled PFPs that feature a richly diverse and unique pool of rarity-powered traits with regenerative puppet for every 4 hrs / 24 hrs / 1 day / 90 months / 1 year. What's more, each Puppet-Soul unlocks private Founder’s access , club membership and additional benefits the longer you hold them."
+			}
+		}
+	}
+}
